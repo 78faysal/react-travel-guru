@@ -29,7 +29,7 @@ const AuthProvider = ({children}) => {
         })
     }, [])
 
-    console.log('observing user of', user);
+    // console.log('observing user of', user);
     
     const authinfo = {createUser, signIn, user, logOut, loading}
 

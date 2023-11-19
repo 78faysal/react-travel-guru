@@ -7,7 +7,7 @@ const Login = () => {
 
     const location = useLocation();
     const navigate = useNavigate();
-    console.log(location);
+    // console.log(location);
 
     const { signIn } = useContext(AuthContext);
 
@@ -19,7 +19,7 @@ const Login = () => {
 
         signIn(email, password)
             .then(res => {
-                console.log(res.user);
+                // console.log(res.user);
                 navigate(location?.state ? location.state : '/')
 
             })

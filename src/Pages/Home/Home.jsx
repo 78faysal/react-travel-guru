@@ -20,7 +20,7 @@ const Home = () => {
 
     const handleClick = (id) => {
         navigate(`/placeDetail/${id}`)
-        console.log('clciked', id);
+        // console.log('clciked', id);
     }
 
     return (

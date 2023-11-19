@@ -7,7 +7,7 @@ const PrivateRoute = ({children}) => {
 
     const location = useLocation();
 
-    console.log(location);
+    // console.log(location);
     
     if(loading){
         return <div className="min-h-screen flex justify-center items-center">
