@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "place_img": "https://i.ibb.co/nRsR6wt/Sreemongol.png",
+        "destination_place": "Sreemongol",
+        "description": "Step back in time as you explore the cobblestone streets and historical landmarks of this charming town. Discover centuries-old architecture, visit museums showcasing local history, and savor the unique blend of tradition and modernity."
+    },
+    {
+        "id": 2,
+        "place_img": "https://i.ibb.co/1TpCwGg/sundorbon.png",
+        "destination_place": "Sundorbon",
+        "description": "Embark on a thrilling wildlife adventure, encountering diverse species in their natural habitats. Safari through lush jungles, observe majestic animals in their element, and create unforgettable memories surrounded by the beauty of the natural world."
+    },
+    {
+        "id": 3,
+        "place_img": "https://i.ibb.co/tBR83BT/Sajek.png",
+        "destination_place": "Sajek",
+        "description": "Indulge in the magic of winter with snow-covered landscapes and exciting cold-weather activities. Ski down pristine slopes, build snowmen in enchanting snowscapes, and cozy up by the fire in charming winter cabins."
+    }
+]
